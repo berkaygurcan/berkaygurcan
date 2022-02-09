@@ -1,3 +1,4 @@
+[![MasterHead](https://image.freepik.com/free-vector/coding-system-banner_87720-2994.jpg?w=1380)]()
 <h1 align="center">Hi 👋, I'm Berkay Gürcan</h1>
 <h3 align="center">Computer Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611607f3396b3beb67cb9367a4d1a5eeb16fbadfefa&rid=giphy.gif&ct=g">
