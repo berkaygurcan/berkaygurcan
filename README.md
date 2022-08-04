@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **React / React Native**
 
 - 💬 Ask me about **Html/css/js**
 
