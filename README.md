@@ -3,6 +3,7 @@
 <h3 align="center">Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkaygurcan&label=Profile%20views&color=0e75b6&style=flat" alt="berkaygurcan" /> </p>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611607f3396b3beb67cb9367a4d1a5eeb16fbadfefa&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **React Native Developer**
 
