@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **React Native Developer**
 
-- 🌱 I’m currently learning **React / React Native**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Html/css/js**
+- 💬 Ask me about **Html/css/js/react/react-native**
 
 - 📫 How to reach me **berkaygurcan141@gmail.com**
 
